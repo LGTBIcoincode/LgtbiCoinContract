@@ -1,0 +1,2 @@
+# LgtbiCoinContract
+Lgtbi+ Coin contract
