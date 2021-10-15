@@ -14,5 +14,10 @@ Get 10% Max Fees:
             1%Tax & 1%liqui
 
 
+You can donate to addresses
+
+BSC - 0x041adf437ede98a91297988cceaa85072493faf2
+
+https://bscscan.com/token/0x041adf437ede98a91297988cceaa85072493faf2
             
                                                                          
